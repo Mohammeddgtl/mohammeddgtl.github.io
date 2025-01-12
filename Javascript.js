@@ -132,6 +132,15 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
+document.addEventListener('DOMContentLoaded', () => {
+  const image = document.querySelector('.logoo0');
+
+  image.addEventListener('click', () => {
+  window.location.href = 'https://www.instagram.com/mohammeddgtl/';
+  });
+});
+
+
 
 
 
