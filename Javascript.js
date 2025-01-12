@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const image = document.querySelector('.logoo1');
 
   image.addEventListener('click', () => {
-  window.location.href = 'https://youtube.com';
+  window.location.href = 'https://github.com/mohammeddgtl';
   });
 });
 
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const image = document.querySelector('.logoo2');
 
   image.addEventListener('click', () => {
-  window.location.href = 'https://youtube.com';
+  window.location.href = 'https://www.linkedin.com/in/mohammeddgtl/';
   });
 });
 
